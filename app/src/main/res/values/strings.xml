@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson3CardLayout</string>
+    <string name="card_title">This is My First Card</string>
+    <string name="card_content">I Hope this is a Content</string>
+    <string name="action_share">share</string>
+    <string name="action_explore">Explore</string>
+    action_share
+</resources>
